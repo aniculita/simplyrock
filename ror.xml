@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://www.SimplyRock.eu</title>
+  <link>http://www.SimplyRock.eu</link>
+
+<item>
+     <link>http://www.SimplyRock.eu/</link>
+     <title>SimplyRock / Official Website</title>
+     <description>SimplyRock è una band composta da esperti musicisti, e rappresenta uno dei principali tributi a Joe Cocker, la più grande voce del blues/rock britannico.</description>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.SimplyRock.eu/index.html</link>
+     <title>SimplyRock / Official Website</title>
+     <description>SimplyRock è una band composta da esperti musicisti, e rappresenta uno dei principali tributi a Joe Cocker, la più grande voce del blues/rock britannico.</description>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.SimplyRock.eu/concerti.html</link>
+     <title>SimplyRock / Official Website</title>
+     <description>SimplyRock</description>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.SimplyRock.eu/gallery.html</link>
+     <title>SimplyRock / Official Website</title>
+     <description>SimplyRock</description>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.SimplyRock.eu/video.html</link>
+     <title>SimplyRock / Official Website</title>
+     <description>SimplyRock</description>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.SimplyRock.eu/stampati.html</link>
+     <title>SimplyRock / Official Website</title>
+     <description>SimplyRock</description>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.SimplyRock.eu/art.html</link>
+     <title>SimplyRock / Official Website</title>
+     <description>SimplyRock</description>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.SimplyRock.eu/index-en.html</link>
+     <title>SimplyRock / Official Website</title>
+     <description>SimplyRock è una band composta da esperti musicisti, e rappresenta uno dei principali tributi a Joe Cocker, la più grande voce del blues/rock britannico.</description>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.SimplyRock.eu/pdf/Simply%20Joe%20-%20Scheda%20tecnica.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.SimplyRock.eu/concerti-en.html</link>
+     <title>SimplyRock / Official Website</title>
+     <description>SimplyRock</description>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.SimplyRock.eu/gallery-en.html</link>
+     <title>SimplyRock / Official Website</title>
+     <description>SimplyRock</description>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.SimplyRock.eu/video-en.html</link>
+     <title>SimplyRock / Official Website</title>
+     <description>SimplyRock</description>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.SimplyRock.eu/stampati-en.html</link>
+     <title>SimplyRock / Official Website</title>
+     <description>SimplyRock</description>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.SimplyRock.eu/art-en.html</link>
+     <title>SimplyRock / Official Website</title>
+     <description>SimplyRock</description>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://www.SimplyRock.eu/</loc>
+  <lastmod>2017-10-15T16:02:55+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://www.SimplyRock.eu/index.html</loc>
+  <lastmod>2017-10-15T16:02:55+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.SimplyRock.eu/concerti.html</loc>
+  <lastmod>2017-10-15T16:02:53+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.SimplyRock.eu/gallery.html</loc>
+  <lastmod>2017-10-15T16:02:54+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.SimplyRock.eu/video.html</loc>
+  <lastmod>2017-10-15T16:02:57+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.SimplyRock.eu/stampati.html</loc>
+  <lastmod>2017-10-15T16:02:56+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.SimplyRock.eu/art.html</loc>
+  <lastmod>2017-10-15T16:02:52+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.SimplyRock.eu/index-en.html</loc>
+  <lastmod>2017-10-15T16:13:17+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.SimplyRock.eu/pdf/Simply%20Joe%20-%20Scheda%20tecnica.pdf</loc>
+  <lastmod>2017-10-08T19:26:25+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.SimplyRock.eu/concerti-en.html</loc>
+  <lastmod>2017-10-15T16:02:52+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.SimplyRock.eu/gallery-en.html</loc>
+  <lastmod>2017-10-15T16:02:53+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.SimplyRock.eu/video-en.html</loc>
+  <lastmod>2017-10-15T16:02:56+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.SimplyRock.eu/stampati-en.html</loc>
+  <lastmod>2017-10-15T16:02:55+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.SimplyRock.eu/art-en.html</loc>
+  <lastmod>2017-10-15T16:02:52+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
+</url>
+</urlset>

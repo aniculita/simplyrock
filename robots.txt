@@ -1,0 +1,12 @@
+User-agent: scooter
+Disallow: /
+
+User-agent: googlebot
+Disallow: /cgi-bin
+
+User-agent: *
+Disallow:
+Disallow: /css
+Disallow: /js
+
+SITEMAP: http://www.medialex.ro/sj2/sitemap.xml
