@@ -9,4 +9,4 @@ Disallow:
 Disallow: /css
 Disallow: /js
 
-SITEMAP: http://www.medialex.ro/sj2/sitemap.xml
+SITEMAP: http://simplyrock.niculita.info/sitemap.xml
